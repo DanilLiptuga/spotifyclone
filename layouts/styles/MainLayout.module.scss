@@ -1,0 +1,27 @@
+.rootLayout{
+  min-height: 100vh;
+
+  .sidebar{
+    position: relative;
+    overflow: hidden;
+    & > div{
+      display: flex;
+      align-items: center;
+      position: fixed;
+      width:inherit
+    }
+    &__menu{
+      width: 100% !important;
+    }
+
+  }
+  .contentLayout{
+    transform: scale(1);
+    overflow: hidden;
+  }
+  .content{
+    padding: 24px;
+    margin: 24px 16px;
+
+  }
+}

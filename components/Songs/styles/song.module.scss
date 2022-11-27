@@ -1,0 +1,27 @@
+.songWrapper{
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: .3s all ease-in-out;
+  border-radius: 8px;
+  &:hover {
+    border: 1px solid #1e1e1e;
+  }
+}
+.song{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  & > div{
+    display: flex;
+    gap: 10px;
+  }
+  &__listens > span{
+    color: rgba(74, 73, 73, 0.71);
+    margin-right: 7px;
+  }
+  &__playbutton{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+  }
+}
