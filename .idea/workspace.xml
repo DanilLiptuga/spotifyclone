@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2014bd4a-8160-4918-bfd5-8bd5c94a14f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/api/songs/update.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/songs/update.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/11/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/11/11.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/12/12.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/12/soloviy3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/13/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/13/hto-jak-ne-ti.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/14/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/14/Не_твоя_війна.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/15/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/15/На_Небі.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/16/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/16/Човен.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/17/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/17/TDME.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/18/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/18/My_Name.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/19/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/19/Stay_With_Me.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/20/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/20/bilya_sercya.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/songs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/songs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +111,9 @@
       <workItem from="1669487045514" duration="7193000" />
       <workItem from="1669495288423" duration="623000" />
       <workItem from="1669550299783" duration="9966000" />
-      <workItem from="1669592303460" duration="79000" />
+      <workItem from="1669592303460" duration="237000" />
+      <workItem from="1669592565666" duration="18000" />
+      <workItem from="1669592598380" duration="439000" />
     </task>
     <servers />
   </component>

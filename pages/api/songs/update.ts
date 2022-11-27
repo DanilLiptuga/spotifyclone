@@ -11,13 +11,9 @@ export default function handler(req: any, res: any) {
                 return res.status(405).send({error: err})
             } else {
                 const content: ISong[] = JSON.parse(data);
-                const indexOfSong = content.findIndex((song) => song.id === req.body.id);
-                if (indexOfSong == -1)
-                    return res.status(404).send({message: 'Song didn`t found!'});
-                else
-                    content[indexOfSong].listens = Number(content[indexOfSong].listens) + 1;
-                fs.writeFile(jsonDirectory + "/data/songs/songs.json", JSON.stringify(content), 'utf8', err => {
-                    if (err) throw err;
+                const indexOfSong = content.findIndex((song) => song.id == req.body.id);
+                    content[indexOfSong].listens = +content[indexOfSong].listens + 1;
+                fs.writeFile(jsonDirectory + "/data/songs/songs.json", JSON.stringify(content), 'utf8', _ => {
                     return res.status(200);
                 });
             }
