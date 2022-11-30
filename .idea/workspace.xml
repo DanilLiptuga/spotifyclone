@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2014bd4a-8160-4918-bfd5-8bd5c94a14f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/data/songs/11/11.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/1/Still_with_you.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/1/Still_with_you.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/1/jk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/1/jk.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/10/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/10/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/2/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/2/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/2/garno_tak.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/2/garno_tak.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/3/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/3/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/3/insha_lyubov.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/3/insha_lyubov.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/4/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/4/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/4/kalus_ki_vechornici.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/4/kalus_ki_vechornici.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/5/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/5/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/5/stefaniya-mamo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/5/stefaniya-mamo.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/7/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/7/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/7/Softcore.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/7/Softcore.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/8/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/8/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/8/8.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/8/8.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/9/0.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/9/0.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/data/songs/songs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/songs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +112,7 @@
       <workItem from="1669592303460" duration="237000" />
       <workItem from="1669592565666" duration="18000" />
       <workItem from="1669592598380" duration="2407000" />
-      <workItem from="1669844002275" duration="1624000" />
+      <workItem from="1669844002275" duration="2045000" />
     </task>
     <servers />
   </component>
