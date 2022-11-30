@@ -5,7 +5,7 @@ import {useSongsQuery} from "../../API/songs/useSongsQuery";
 import {ISong} from "../../models/ISong";
 import AuthorList from "../../components/Authors/AuthorList";
 export const getServerSideProps: GetServerSideProps = async (context): Promise<GetServerSidePropsResult<any>> => {
-    const songs = await useSongsQuery(context.req.headers.referer as string)
+    const songs = await useSongsQuery("http://" +context.req.headers.host as string)
     return {
         props: {
             songs: songs.data
