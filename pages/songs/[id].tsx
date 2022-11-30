@@ -13,7 +13,7 @@ interface SongProps{
     initialSong: ISong,
 }
 export const getServerSideProps: GetServerSideProps = async (context): Promise<GetServerSidePropsResult<SongProps>> => {
-    const songs = await useSongsQuery()
+    const songs = await useSongsQuery(context.req.headers.referer as string)
     const song = songs.data[context.params.id - 1]
     return {
         props: {

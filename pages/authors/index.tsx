@@ -4,8 +4,8 @@ import MainLayout from "../../layouts/MainLayout";
 import {useSongsQuery} from "../../API/songs/useSongsQuery";
 import {ISong} from "../../models/ISong";
 import AuthorList from "../../components/Authors/AuthorList";
-export const getServerSideProps: GetServerSideProps = async (): Promise<GetServerSidePropsResult<SongProps>> => {
-    const songs = await useSongsQuery()
+export const getServerSideProps: GetServerSideProps = async (context): Promise<GetServerSidePropsResult<any>> => {
+    const songs = await useSongsQuery(context.req.headers.referer as string)
     return {
         props: {
             songs: songs.data

@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="2014bd4a-8160-4918-bfd5-8bd5c94a14f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/songs/useSongsQuery.ts" beforeDir="false" afterPath="$PROJECT_DIR$/API/songs/useSongsQuery.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helpers/apiEndpoints.ts" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/apiEndpoints.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/api/songs/update.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/songs/update.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/authors/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/authors/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/songs/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/songs/[id].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/songs/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/songs/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/data/songs/songs.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/data/songs/songs.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
